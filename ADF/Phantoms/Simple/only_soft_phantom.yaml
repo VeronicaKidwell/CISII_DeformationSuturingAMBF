@@ -15,7 +15,7 @@ bodies:
 - BODY Exit2
 - BODY Exit3
 - BODY Exit4
-- BODY Phantom
+soft bodies: [BODY Phantom]
 joints:
 - JOINT Phantom-Entry1
 - JOINT Phantom-Entry2
@@ -1189,7 +1189,7 @@ BODY Phantom:
   collision mesh type: CONVEX_HULL
   mass: 0.0
   inertia:
-    ix: 0.0
+    ix: 0.0exi
     iy: 0.0
     iz: 0.0
   collision margin: 0.0001

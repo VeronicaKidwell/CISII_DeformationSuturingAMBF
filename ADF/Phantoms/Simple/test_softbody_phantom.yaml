@@ -18,10 +18,10 @@ BODY Phantom:
   scale: 1.0
   location:
     orientation: {p: -0.0, r: 0.0, y: 0.0}
-    position: {x: 0.0307, y: 0.16947, z: 0.69781}
+    position: {x: 0.0, y: 0.0, z: 10.0}
   inertial offset:
     orientation: {p: 0, r: 0, y: 0}
-    position: {x: 0.0, y: 0.0, z: 0.0}
+    position: {x: 0.0, y: 0.0, z: 10.0}
   friction: {rolling: 0.01, static: 0.5}
   damping: {angular: 0.1, linear: 0.04}
   restitution: 0

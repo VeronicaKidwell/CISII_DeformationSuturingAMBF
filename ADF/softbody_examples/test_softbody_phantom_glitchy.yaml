@@ -11,11 +11,11 @@ namespace: /ambf/env/phantom/
 BODY Phantom:
   name: Phantom
   mesh: Phantom.STL
-  collision mesh: Phantom.STL
+  collision mesh:  PhantomCollision_PhantomCollision_Cube_001_PhantomCollision_Cub.STL
   collision mesh type: CONVEX_HULL
   mass: 1.0
   collision margin: 0.001
-  scale: 1.0
+  scale: 10.0
   location:
     orientation: {p: -0.0, r: 0.0, y: 0.0}
     position: {x: 0.0307, y: 0.16947, z: 0.69781}
@@ -25,7 +25,7 @@ BODY Phantom:
   friction: {rolling: 0.01, static: 0.5}
   damping: {angular: 0.1, linear: 0.04}
   restitution: 0
-  collision groups: [0]
+  collision groups: []
   use material: true
   color components:
     ambient:
