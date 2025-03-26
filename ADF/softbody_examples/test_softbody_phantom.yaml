@@ -18,7 +18,7 @@ BODY Phantom:
   scale: 1.0
   location:
     orientation: {p: -0.0, r: 0.0, y: 0.0}
-    position: {x: 0.0307, y: 0.16947, z: 0.69781}
+    position: {x: 0.0307, y: 0.16947, z: 0.62781}
   inertial offset:
     orientation: {p: 0, r: 0, y: 0}
     position: {x: 0.0, y: 0.0, z: 0.0}

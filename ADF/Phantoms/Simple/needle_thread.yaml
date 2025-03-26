@@ -99,9 +99,9 @@ BODY Needle:
   scale: 1.0
   location:
     position:
-      x: -0.0095
-      y: 0.20961
-      z: 1.71634
+      x: -0.10034
+      y: 0.40911
+      z: 0.61484
     orientation:
       r: -0.0
       p: 3.14159
@@ -153,9 +153,9 @@ BODY Thread:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.20911
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -221,9 +221,9 @@ BODY Thread_001:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.20667
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -289,9 +289,9 @@ BODY Thread_002:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.20423
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -357,9 +357,9 @@ BODY Thread_003:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.20179
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -425,9 +425,9 @@ BODY Thread_004:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.19935
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -493,9 +493,9 @@ BODY Thread_005:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.19691
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -561,9 +561,9 @@ BODY Thread_006:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.19447
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -629,9 +629,9 @@ BODY Thread_007:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.19203
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -697,9 +697,9 @@ BODY Thread_008:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.18959
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -765,9 +765,9 @@ BODY Thread_009:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.18715
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -833,9 +833,9 @@ BODY Thread_010:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.18471
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -901,9 +901,9 @@ BODY Thread_011:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.18227
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -969,9 +969,9 @@ BODY Thread_012:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.17983
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1037,9 +1037,9 @@ BODY Thread_013:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.17739
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1105,9 +1105,9 @@ BODY Thread_014:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.17495
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1173,9 +1173,9 @@ BODY Thread_015:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.17251
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1241,9 +1241,9 @@ BODY Thread_016:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.17007
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1309,9 +1309,9 @@ BODY Thread_017:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.16763
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1377,9 +1377,9 @@ BODY Thread_018:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.16519
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1445,9 +1445,9 @@ BODY Thread_019:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.16275
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1513,9 +1513,9 @@ BODY Thread_020:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.16033
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1581,9 +1581,9 @@ BODY Thread_021:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.15789
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1649,9 +1649,9 @@ BODY Thread_022:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.15545
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1717,9 +1717,9 @@ BODY Thread_023:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.15301
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1785,9 +1785,9 @@ BODY Thread_024:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.15057
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1853,9 +1853,9 @@ BODY Thread_025:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.14813
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1921,9 +1921,9 @@ BODY Thread_026:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.14569
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -1989,9 +1989,9 @@ BODY Thread_027:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.14325
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2057,9 +2057,9 @@ BODY Thread_028:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.14081
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2125,9 +2125,9 @@ BODY Thread_029:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.13837
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2193,9 +2193,9 @@ BODY Thread_030:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.13593
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2261,9 +2261,9 @@ BODY Thread_031:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.13349
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2329,9 +2329,9 @@ BODY Thread_032:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.13105
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2397,9 +2397,9 @@ BODY Thread_033:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.12861
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2465,9 +2465,9 @@ BODY Thread_034:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.12617
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2533,9 +2533,9 @@ BODY Thread_035:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.12373
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2601,9 +2601,9 @@ BODY Thread_036:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.12129
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2669,9 +2669,9 @@ BODY Thread_037:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.11885
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2737,9 +2737,9 @@ BODY Thread_038:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.11641
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
@@ -2805,9 +2805,9 @@ BODY Thread_039:
   scale: 1.0
   location:
     position:
-      x: -0.00034
+      x: -0.10034
       y: 0.11397
-      z: 0.76484
+      z: 0.61484
     orientation:
       r: -1.5708
       p: -0.0
